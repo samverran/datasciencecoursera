@@ -1,0 +1,83 @@
+getwd
+getwd()
+echo help
+clear
+dir()
+xy <-42
+pring(xy)
+xy <- 42
+print(42)
+x <- mean(34,289,983,1)
+print(x)
+mean(34,289,983,1)
+print(x)+print(xy)
+x
+msg <- "herro"
+msg
+x <-
+2
+x
+## comment
+c <- c(75,89)
+c
+v <- c(90+2)
+v
+c+v
+7 <- "when I see rani's butt, i'm all rike herro prease"
+7 <- "when i see ranis butt im all rike herro prease"
+7 <- C("when i see ranis but im all rike herro prease")
+s <- C(true, false)
+s
+d <- 4, 9
+d <- C(4, 9)
+d <- c(4,9)
+d
+f <- 4,9
+q <- vector("numeric",4,9)
+q<- vector("numeric", length = 10)
+q
+h <- list(1, "a", true, 1 + 4i)
+h <- list(1, "a", true)
+h <- list(1,"a",true)
+h <- list(1,3)
+h
+h <- list(1,"a")
+h
+install.packages("KernSmooth")
+library(KernSmooth)
+search()
+mkdir data
+mkdir ../data
+mkdir /Users/data
+x <- list(help = 1:4, me = 0.6)
+x
+$help
+$ help
+[1]
+[3]
+x$me
+x$help
+x[2]
+x <- list(a = 1:4, b = list(10, 11, 12), c =c(1, 2, 4))
+x[a]
+x[[a]]
+x
+x[1]
+x[[c(1, 3)]]
+x[[c(2, 2)]]
+pwd
+cd
+cd()
+cd(/Users/samverran)
+getwd()
+getwd
+x <- matrix(1:6, 2, 3)
+x
+x[1,2]
+x[1, ]
+x <-c(4, true)
+x <- c(4, TRUE)
+x
+x <- c(1, 3, 5)
+y <- c(3, 2, 10)
+rbind(x, y)
